@@ -1,8 +1,8 @@
-# Word Search Creator
+# WordSeeker
 
 A modern, feature-rich word search puzzle generator and solver built with PySide6 (Qt6). Create custom word search puzzles with AI-powered word generation, multiple themes, dark mode support, and export capabilities.
 
-![Word Search Creator Screenshot](screenshot.png)
+![WordSeeker Screenshot](screenshot.png)
 
 ## Features
 
@@ -48,8 +48,8 @@ A modern, feature-rich word search puzzle generator and solver built with PySide
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/QuantumPixelator/Crossword-Creator.git
-cd "Crossword Creator"
+git clone https://github.com/QuantumPixelator/WordSeeker.git
+cd "WordSeeker"
 ```
 
 2. **Create and activate virtual environment**
