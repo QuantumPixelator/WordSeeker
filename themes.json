@@ -1,0 +1,42 @@
+{
+    "Holiday": [
+        "FESTIVITIES",
+        "VACATION",
+        "CELEBRATION",
+        "RELAXATION",
+        "TOURISM",
+        "ANNIVERSARY",
+        "FESTIVAL",
+        "CARNIVAL",
+        "LEISURE",
+        "PILGRIMAGE",
+        "BEACH",
+        "MOUNTAINS",
+        "REFRESH",
+        "GETAWAY"
+    ],
+    "SPACE": [
+        "ASTEROID",
+        "COSMOS",
+        "GALAXY",
+        "NEBULA",
+        "ORBIT",
+        "PLANET",
+        "SATELLITE",
+        "SOLAR",
+        "UNIVERSE",
+        "VOID"
+    ],
+    "Computers": [
+        "PROCESSOR",
+        "MEMORY",
+        "SOFTWARE",
+        "HARDWARE",
+        "NETWORK",
+        "DATABASE",
+        "ALGORITHM",
+        "INTERFACE",
+        "KEYBOARD",
+        "MONITOR"
+    ]
+}
